@@ -1,0 +1,3 @@
+C:/Users/Owner/source/repos/InventorySourcer/InventorySourcer/build/CMakeFiles/_inventory_sourcer.dir
+C:/Users/Owner/source/repos/InventorySourcer/InventorySourcer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Owner/source/repos/InventorySourcer/InventorySourcer/build/CMakeFiles/ZERO_CHECK.dir
